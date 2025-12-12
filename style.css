@@ -16,8 +16,8 @@ a{text-decoration:none;}
 		.juzuo2{color:#000000;font-size: 3rem;padding:3rem 0 0}
 		.dierhang{color:#f4e4c0;font-size:2.8rem;Text-indent:2rem;padding: 2rem 0 3rem}
 		.saomatishi{background-color:#fcbd20;color:#ffffdd;margin: 1.2rem 0 0;padding:5rem 4rem;font-size:3rem;Border-radius:1rem}
-		.erweima{background-color:#fff;Border-radius:1rem; height: auto;}
-		.ewm{margin: 0.5rem 0 0 ;width: 580px;height: 580px}
+		.erweima{background-color:#fff;Border-radius:1rem; width: 90vw; margin: 0 auto;}
+		.ewm{margin: 0.5rem 0 0 ;width: 100%;height: auto;display: block;}
 		.true{margin: 4rem 0 2rem ;width: 260px;height: 260px}
 		.truetxt{color:#000000}
 		.truetxt p.jinchang{font-size:3.3em;margin:0;   transform: translateZ(0);
