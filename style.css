@@ -8,7 +8,7 @@ body {
 }
 a{text-decoration:none;}
 		.tongyong{}
-		.zhengti{margin: 0 auto; padding: 0 1rem; width: 95%; max-width: 530px;}
+		.zhengti{margin: 0 auto; padding: 0 1rem; width: 95%; max-width: 580px;}
 		.juzhong{text-align:center}
 		.juzuo{text-align: left;color:#f4e4c0;font-size: 4rem}
 		.juzuo1{text-align: center;color:#f4e4c0;font-size: 3.5rem;margin-top:0;margin-bottom:3.5rem;}
@@ -16,7 +16,7 @@ a{text-decoration:none;}
 		.dierhang{color:#f4e4c0;font-size:2.8rem;Text-indent:2rem;padding: 2rem 0 3rem}
 		.saomatishi{background-color:#fcbd20;color:#ffffdd;margin: 1.2rem 0 0;padding:5rem 4rem;font-size:3rem;Border-radius:1rem}
 		.erweima{background-color:#fff;Border-radius:1rem; height: auto;}
-		.ewm{margin: 0.5rem auto ;display: block;width: 90%;height: auto; max-width: 530px;}
+		.ewm{margin: 0.5rem auto ;display: block;width: 90%;height: auto; max-width: 580px;}
 		.true{margin: 4rem 0 2rem ;width: 260px;height: 260px}
 		.truetxt{color:#000000}
 		.truetxt p.jinchang{font-size:3.3em;margin:0;   transform: translateZ(0);
